@@ -1,2 +1,2 @@
 # library-book-recommendation-system
-Java Library Book Recommendation System using OOP, Collections and JDBC with MySQL
+This project is a Java-based Library Book Recommendation System developed using Object-Oriented Programming principles, Java Collections, and JDBC. The application follows the MVC (Model–View–Controller) architecture to ensure clean separation of responsibilities. MySQL is used as the backend database to store book details, users, and ratings, while JDBC handles database connectivity. The system allows adding, retrieving, and recommending books based on user interactions. No graphical user interface is used; console output serves as the View layer. This project demonstrates practical understanding of Java backend development and database integration.
